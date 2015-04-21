@@ -1,3 +1,3 @@
-Imported from the now old gpuocelot at https://code.google.com/p/gpuocelot/downloads/list
+Imported from the now old gpuocelot at https://code.google.com/p/gpuocelot/
 
 Will see if i can update it...
